@@ -1,6 +1,6 @@
 enum Trabalho {
     Atriz,
-    Padeiro
+    Padeiro,
 }
 
 type Pessoa = {

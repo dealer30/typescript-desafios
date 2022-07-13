@@ -7,5 +7,3 @@ let funcionario: Funcionario = {
     code: 10,
     name: 'John'
 }
-
-console.log(funcionario);
